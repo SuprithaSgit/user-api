@@ -1,0 +1,28 @@
+{
+	"users": [
+		{
+			"name": "Ania",
+			"age": "24",
+			"address": [
+				{
+					"number": "75",
+					"line1": "rajajinagar",
+					"postcode": "560067",
+					"country": "india"
+				}
+			]
+		},
+		{
+			"name": "Kia",
+			"age": 30,
+			"address": [
+				{
+					"number": "#3/2",
+					"line1": "vijaynagar",
+					"postcode": "560060",
+					"country": "india"
+				}
+			]
+		}
+	]
+}
